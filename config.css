@@ -40,6 +40,7 @@ section#redes-sociais img{
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px black;
+    outline: 2px
 }
 section#redes-sociais{
     text-align: right;
